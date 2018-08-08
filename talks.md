@@ -4,6 +4,7 @@ layout: page
 ---
 
 #### Invited Sessions ####
+Presenter *
 
 * Ayilara, O.F.*, Lix, L.M., Zhang, L., Sajobi, T.T., Sawatzky, R. and Bohm, E. Investigating the Impact of
 Missing Data Mechanism in Patient Reported Outcome Measures: A Clinical Registry Perspective.
