@@ -24,7 +24,7 @@ description: Wonderful!!!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Publications: "publication"
+  Publications: "publications"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
