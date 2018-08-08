@@ -1,6 +1,7 @@
 ---
 layout: page
 subtitle:  Publications
+
 ---
 
 #### Methodological and Statistical Papers ####
