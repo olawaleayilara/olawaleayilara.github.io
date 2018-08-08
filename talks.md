@@ -1,6 +1,6 @@
 ---
 layout: page
-
+Title: Talks
 ---
 
 #### Invited Sessions ####
