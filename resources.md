@@ -6,9 +6,10 @@ title: Resources
 
 #### E-Learning ####
 
-  * [Beautiful Jekyll:](http://deanattali.com/beautiful-jekyll/)
-  * [Learn markdown:](http://www.markdowntutorial.com/)
-  * [GitHub Pages:](https://pages.github.com/)
+  * [Create your own R Package](http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf)
+  * [Learn Markdown](http://www.markdowntutorial.com/)
+  * [GitHub Pages](https://pages.github.com/)
+  * [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/)
   
   
 #### Postdoctoral ####  
@@ -30,6 +31,11 @@ title: Resources
 
 #### Non-Academic Positions ####
 
+* CNODES [Statistical Research Assistant](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/statistical_research_assistant_job_description_-_2018.pdf)
+* CRCHUM - University of Montreal [Biostatistics Advisor](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/biostatistician.pdf)
+* Hastings Prince Edward Public Health [Epidemiologist](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/18.14_epidemiologist.pdf)
+* Department of Primary Health Care, Alberta Health Services [Scientist](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/scientist_-_edited_posting_2018_05_16.pdf)
+* Alberta Innovates [Senior Performance Management Evaluator (3 Year Term)](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/senior_evaluator_3_years_may_2018.pdf)
 
 
 
