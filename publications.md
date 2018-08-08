@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-subtitle: Selected Publications that use PyCBC
+# title: Publications
+# subtitle: Selected Publications that use PyCBC
 ---
 
 ## Scientific Publications
