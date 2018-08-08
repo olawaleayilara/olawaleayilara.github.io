@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Olawale Ayilara
+subtitle: PhD Student, Biostatistics, University of Manitoba
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a PhD student in the [Department of Community Health Sciences](http://umanitoba.ca/faculties/health_sciences/medicine/units/chs/) at [University of Manitoba](http://umanitoba.ca/) under the supervision of [Lisa Lix](http://home.cc.umanitoba.ca/~lixlm/) and [Mohammad Jafari Jozani](https://umanitoba.ca/statistics/people/jafari_jozani/). My research interests include Statistical Methods for Handling Missing Data in Patient Reported Outcomes (PROs), Longitudinal Data Analysis, Multi-level Modeling, and Data Visualization. I previously focused on [quantile regression with nominated samples](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7655) in my masters thesis. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
