@@ -25,8 +25,8 @@ description: Wonderful!!!
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-  Resources: "resources"
   Talks: "talks"
+  Resources: "resources"
   CV: "https://github.com/olawaleayilara/olawaleayilara.github.io/raw/master/Ayilara_Resume.pdf"
   #Author's home: "http://deanattali.com"
 
