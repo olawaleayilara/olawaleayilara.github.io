@@ -14,7 +14,7 @@ output:
 
 
 ## Introduction
-In this training module, I will introduce readers to grammar of graphics in R, with a focus on ggplot2. This package was written by Hadley Wickham and Winston Chang. The repository can accessed through "https://github.com/hadley/ggplot2". ggplot2 is part of the tidyverse package and it useful for simple and complex data visualization. tidyverse package make it easier to load different types of dataset in R and allows quick data manipulations before visulization. 
+In this post, I will introduce readers to grammar of graphics in R, with a focus on ggplot2. This package was written by Hadley Wickham and Winston Chang. The repository can accessed through "https://github.com/hadley/ggplot2". ggplot2 is part of the tidyverse package and it useful for simple and complex data visualization. tidyverse package make it easier to load different types of dataset in R and allows quick data manipulations before visulization. 
 
 If you don't have tidyverse, you can install it with the code below:
 
