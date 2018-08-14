@@ -22,7 +22,7 @@ description: Wonderful!!!
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links: "_posts"
+navbar-links: 
   About Me: "aboutme"
   Publications: "publications"
   Talks: "talks"
