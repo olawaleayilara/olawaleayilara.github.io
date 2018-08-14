@@ -1,3 +1,4 @@
+layout: post
 Data Visualization using ggplot2
 ================
 Olawale Ayilara
