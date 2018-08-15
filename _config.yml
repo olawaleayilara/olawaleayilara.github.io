@@ -22,11 +22,10 @@ description: Wonderful!!!
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-
+navbar-links: 
   About Me: "aboutme"
   Publications: "publications"
   Talks: "talks"
-  navbar-links: 
   Resources: "resources"
   CV: "https://github.com/olawaleayilara/olawaleayilara.github.io/raw/master/Ayilara_Resume.pdf"
   #Author's home: "http://deanattali.com"
