@@ -1,6 +1,11 @@
-Data Visualization using ggplot2
-================
-Olawale Ayilara
+---
+layout: post
+title: "Data Visualization using ggplot2"
+subtitle: "Part One"
+author: "Olawale Ayilara"
+
+---
+
 
 Introduction
 ------------
