@@ -22,17 +22,19 @@ title: Talks
  3. Zhang, L., [Ayilara, O.F.](https://olawaleayilara.github.io/aboutme/), Bohm, E., Sawatzky, R. and Lix, L.M.* The Effect of Multimorbidity on Change in Health-related Quality of Life for Hip and Knee Replacement Surgeries. Presented at the International Society for Quality of Life Research, Copenhagen, Denmark, 2016.
 
 #### Posters ####
-1. [Ayilara, O.F.*](https://olawaleayilara.github.io/aboutme/), Lix, L.M., Zhang, L., Sajobi, T.T., Sawatzky, R. and Bohm, E. Impact of Missing Data and Auxiliary Information on the Bias and Precision of Patient Reported Outcomes in Clinical Registries. Statistical Society of Canada Student Conference, Montreal, QC, June 2, 2018.
+1. [Ayilara, O.F.*](https://olawaleayilara.github.io/aboutme/), Lix, L.M., Zhang, L., Sajobi, T.T., Sawatzky, R. and Bohm, E. Impact of Missing Data and Auxiliary Information on the Bias and Precision of Patient Reported Outcomes in Clinical Registries. VADA Summer School, University of Manitoba, Winnipeg, July 9, 2018.
 
-2. [Ayilara, O.F.](https://olawaleayilara.github.io/aboutme/), Jiang, X., Fakanye, O., and Kpekpena, C. Does survey design information matters? Case Study Competition at the Statistical Society of Canada, Montreal, QC, June 3 - 6, 2018.
+2. [Ayilara, O.F.*](https://olawaleayilara.github.io/aboutme/), Lix, L.M., Zhang, L., Sajobi, T.T., Sawatzky, R. and Bohm, E. Impact of Missing Data and Auxiliary Information on the Bias and Precision of Patient Reported Outcomes in Clinical Registries. Statistical Society of Canada Student Conference, Montreal, QC, June 2, 2018.
 
-3. Zhang, L., Lix, L.M., [Ayilara, O.F.](https://olawaleayilara.github.io/aboutme/), Sawatzky, R., and Bohm, E.* The Effect of Multimorbidity on Change in Health-related Quality of Life Following Hip and Knee Arthroplasty. To Presented at the International Society of Arthroplasty Registries Meeting, Victoria, Canada, June 20 - 23, 2018.
+3. [Ayilara, O.F.](https://olawaleayilara.github.io/aboutme/), Jiang, X., Fakanye, O., and Kpekpena, C. Does survey design information matters? Case Study Competition at the Statistical Society of Canada, Montreal, QC, June 3 - 6, 2018.
 
-4. [Ayilara, O.F.*](https://olawaleayilara.github.io/aboutme/), Lix, L.M., Zhang, L., Sajobi, T.T., Sawatzky, R. and Bohm, E. Impact of Missing Data and Auxiliary Information on the Bias and Precision of Patient Reported Outcomes in Clinical Registries. Complex Data in Health Research Workshop, University of Manitoba, Winnipeg, February 1, 2018.
+4. Zhang, L., Lix, L.M., [Ayilara, O.F.](https://olawaleayilara.github.io/aboutme/), Sawatzky, R., and Bohm, E.* The Effect of Multimorbidity on Change in Health-related Quality of Life Following Hip and Knee Arthroplasty. To Presented at the International Society of Arthroplasty Registries Meeting, Victoria, Canada, June 20 - 23, 2018.
 
-5. [Ayilara, O.F.*](https://olawaleayilara.github.io/aboutme/) and Jafari Jozani, M. Quantile Regression with Rank Based Samples. Canadian Society for Epidemiology and Biostatistics, Winnipeg, MB, June 8 - 10, 2016.
+5. [Ayilara, O.F.*](https://olawaleayilara.github.io/aboutme/), Lix, L.M., Zhang, L., Sajobi, T.T., Sawatzky, R. and Bohm, E. Impact of Missing Data and Auxiliary Information on the Bias and Precision of Patient Reported Outcomes in Clinical Registries. Complex Data in Health Research Workshop, University of Manitoba, Winnipeg, February 1, 2018.
 
-6. [Ayilara, O.F.](https://olawaleayilara.github.io/aboutme/), Balamchi, S., Hoque, E., and Atakora, F. Can Google Flu Trends Predict the Frequency and Results of Tests for influenza and Other Respiratory Illnesses? Case Study Competition at the Statistical Society of Canada, St. Catherines, ON, May 29 - June 1, 2016.
+6. [Ayilara, O.F.*](https://olawaleayilara.github.io/aboutme/) and Jafari Jozani, M. Quantile Regression with Rank Based Samples. Canadian Society for Epidemiology and Biostatistics, Winnipeg, MB, June 8 - 10, 2016.
+
+7. [Ayilara, O.F.](https://olawaleayilara.github.io/aboutme/), Balamchi, S., Hoque, E., and Atakora, F. Can Google Flu Trends Predict the Frequency and Results of Tests for influenza and Other Respiratory Illnesses? Case Study Competition at the Statistical Society of Canada, St. Catherines, ON, May 29 - June 1, 2016.
 
 
 
