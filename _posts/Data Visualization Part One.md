@@ -3,9 +3,8 @@ layout: post
 title: Data Visualization using ggplot2 Part One
 ---
 
+Introduction
 
-
-## Introduction
 In this training module, I will introduce readers to grammar of graphics in R, with a focus on ggplot2. This package was written by Hadley Wickham and Winston Chang. The repository can accessed through "https://github.com/hadley/ggplot2". ggplot2 is part of the tidyverse package and it useful for simple and complex data visualization. tidyverse package make it easier to load different types of dataset in R and allows quick data manipulations before visulization. 
 
 If you don't have tidyverse, you can install it with the code below:
@@ -27,7 +26,8 @@ head(visualData)
 Take time to play with the data to ensure it is clean enough to proceed to visualization. In this case, our data is reasonably clean. Therefore, we can proceed to the next stage. 
 
 
-## Basic Components of ggplot2
+Basic Components of ggplot2
+ 
 The three key components that make up every visuals using ggplot are: 
 i. data 
 ii. geometries: (geom) function (shapes or layers describing how to visualize data)
@@ -79,7 +79,7 @@ SAT <- ggplot(data = visualData, mapping=aes(x=tuition, y=sat_avg))
 SAT + geom_point()
 ```
 
-## One dimensional geoms, colors and shapes
+One dimensional geoms, colors and shapes
 
 Geoms are essential components of ggplot2, it allows us to specify what type of plot we wish to draw. For example in our previous code, the function geom_point draws a scatterplot which shows the relationship between x and y values with points. Geoms can categorize based on the number of dimensions they are mapping from 1D to 2D, or even 3D. Also, we can have individual geoms, which map each observation provided to an element of the plot. Additionally, collective geoms can help group points to summarize aspects of the data (e.g. boxplot). 
 
