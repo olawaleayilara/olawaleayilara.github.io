@@ -14,7 +14,7 @@ title: Talks
 
 #### Contributed Sessions ####
 
- 1. Jafari Jozani, M., [Ayilara, O.F.*](https://olawaleayilara.github.io/aboutme/) and Leslie, W.D. Quantile Regression with Nominated Samples: An Application to a Bone Mineral Density Study. Statistical Society of Canada, Winnipeg, MB, June 11 { June
+ 1. Jafari Jozani, M., [Ayilara, O.F.*](https://olawaleayilara.github.io/aboutme/) and Leslie, W.D. Quantile Regression with Nominated Samples: An Application to a Bone Mineral Density Study. Statistical Society of Canada, Winnipeg, MB, June 11 - June
 14, 2017.
 
  2. Lix, L.M.*, Zhang, L., [Ayilara, O.F.](https://olawaleayilara.github.io/aboutme/), Sajobi, T.T., Sawatzky, R. and Bohm, E. Treatment of Missing Data in Clinical Registries: A Comparison of Approaches for Estimating Change in Patient-Reported Outcomes. Presented at the International Society for Quality of Life Research, Philadelphia, USA, 2017.
