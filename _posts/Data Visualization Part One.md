@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Data Visualization using ggplot2
-subtitle: Part One
-author: Olawale Ayilara
+title: Data Visualization using ggplot2 Part One
 ---
 
 
