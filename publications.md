@@ -13,5 +13,5 @@ Indian Journal of Computational and Applied Mathematics, 1(1), 165 - 170.](http:
 
 
 #### Applied Papers ####
- 1. Zhang, L., Lix, L.M., **Ayilara, O.F.**, Bohm, E. and Sawatzky, R. (2018). The Effect of Multimorbidity on
- Change in Health-related Quality of Life for Hip and Knee Arthroplasty. Bone and Joint Journal, Accepted. 
+ 1. Zhang, L., Lix, L.M., **Ayilara, O.F.**, Bohm, E. and Sawatzky, R. (2018). [The Effect of Multimorbidity on
+ Change in Health-related Quality of Life for Hip and Knee Arthroplasty. Bone and Joint Journal, 100-B(9), 1168-1174.](https://www.ncbi.nlm.nih.gov/pubmed/30168766)
