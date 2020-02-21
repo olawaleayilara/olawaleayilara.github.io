@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Olawale Ayilara
+subtitle: Olawale F. Ayilara
 subtitle: PhD Candidate, Biostatistics, University of Manitoba
 ---
 
