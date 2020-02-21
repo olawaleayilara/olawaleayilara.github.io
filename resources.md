@@ -15,16 +15,12 @@ title: Resources
   * [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/)
   
   
-###### Postdoctoral Opportunities ######  
- [Click here](https://www.mcgill.ca/epi-biostat-occh/employment#POSTDOC)
- 
+###### [Postdoctoral Opportunities](https://www.mcgill.ca/epi-biostat-occh/employment#POSTDOC) ######  
 
-#### Academic Positions ####
-[Click here](https://www.mcgill.ca/epi-biostat-occh/employment#ACADEMIC)
+###### [Academic Positions](https://www.mcgill.ca/epi-biostat-occh/employment#ACADEMIC) ######
 
+###### [Non-Academic Positions](https://www.mcgill.ca/epi-biostat-occh/employment#NON-ACADEMIC) ######
 
-#### Non-Academic Positions ####
-[Click here](https://www.mcgill.ca/epi-biostat-occh/employment#NON-ACADEMIC)
 
 
    
