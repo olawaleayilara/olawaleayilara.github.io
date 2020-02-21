@@ -15,7 +15,7 @@ title: Resources
   * [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/)
   
   
-#### Postdoctoral Opportunities####  
+#### Postdoctoral Opportunities ####  
  [Click here](https://www.mcgill.ca/epi-biostat-occh/employment#POSTDOC)
  
 
